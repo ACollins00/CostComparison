@@ -1,7 +1,7 @@
 # CostComparison
 Compares the cost of food purchased at a grocery store verses at a wholesale club.
 
-     Does buying in bulk save money? This project analyzes 10 weeks (May 2022 to August 2022) of grocery receipts from a grocery store and compares the cost of
+          Does buying in bulk save money? This project analyzes 10 weeks (May 2022 to August 2022) of grocery receipts from a grocery store and compares the cost of
      groceries over 10 weeks (August 2022 to October 2022) that were purchased in bulk at a wholesale club in addition to a grocery store. The totals are the cost of
      food for a family of 4. With inflation and rising prices, many are looking for ways to save money. It’s clear that buying in bulk can save money, but how much
      does that impact the cost of food overall? Many items can’t be purchased at a wholesale club due to lack or limited availability, but shopping at a wholesale club
