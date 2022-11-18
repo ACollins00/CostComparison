@@ -12,11 +12,11 @@ Compares the cost of food purchased at a grocery store verses at a wholesale clu
      great deals, we ended up buying more “specialty” items such as energy drinks. 
      
  
-The project is done in Visual Studio Code in Jupyter Notebook. The packages needed to run the program are: pandas, matplotlib, matplotlib.pyplot, and numpy (pip3 install pandas, pip3 install matplotlib, pip3 install matplotlib.pyplot, pip3 install numpy.)
+*The project is done in Visual Studio Code in Jupyter Notebook. The packages needed to run the program are: pandas, matplotlib, matplotlib.pyplot, and numpy (pip3 install pandas, pip3 install matplotlib, pip3 install matplotlib.pyplot, pip3 install numpy.)*
  
  
 
-### The 5 features I have included are:
+### The 5 features included are:
  
 - Feature 1: Make a list, dictionary, tuple, or other standard python data structure to read in data for your program. You can do something as easy  as a dictionary that contains 5 key value pairs with information about [*your project.] 
 *Assuming this is what was intended, as the sentence was incomplete in the directions. 
