@@ -11,6 +11,7 @@ Compares the cost of food purchased at a grocery store verses at a wholesale clu
      was much less than it is now. The difference in cost depicted in the graphs were surprising-we came close to braking even. Turns out, wholesale clubs have such
      great deals, we ended up buying more “specialty” items such as energy drinks. 
      
+     
  
 *The project is done in Visual Studio Code in Jupyter Notebook. The packages needed to run the program are: pandas, matplotlib, matplotlib.pyplot, and numpy (pip3 install pandas, pip3 install matplotlib, pip3 install matplotlib.pyplot, pip3 install numpy.)*
  
